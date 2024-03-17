@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jayanth-7
+- 👋 Hi, I’m Jay
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on web technology
 - Don't hack me Ms. Durishetti
 
